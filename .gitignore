@@ -1,0 +1,12 @@
+*.obj
+*.pdb
+*.tlog
+*.idb
+*.lastbuildstate
+*.log
+*unsuccessfulbuild*
+Debug/
+Release/
+x64/
+X64/
+.vs/
